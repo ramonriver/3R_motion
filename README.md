@@ -1,4 +1,4 @@
-# 3R_motion
+# 3R_motion #
 **3R motion with Scilab**
 See the TriVex SL/SLi vertical pack loader using two 3R arm robots: https://youtu.be/58p0063SkLE
 Using the functions developed at class, finish the Scilab code to generate the vertical motion of one of the robots. The code should generate the following results:
